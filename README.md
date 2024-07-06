@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Mondal</h1>
 <h3 align="center">Lifelong Learner & Coder!</h3>
 
-<img align="right" alt="coding" width="300" src="https://i.gifer.com/origin/f8/f8903ad1904347df9561656bcfa8918e_w200.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/nrkkR/nrkkR/blob/main/goku%20running.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrkkr&label=Profile%20views&color=0e75b6&style=flat" alt="nrkkr" /> </p>
 
