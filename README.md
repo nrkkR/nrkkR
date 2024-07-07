@@ -81,7 +81,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/c/theajooba" target="blank">
+  <a href="https://www.youtube.com/channel/UClEuZv2wtYheUjOhMOj5TDw" target="blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
   <a href="https://instagram.com/_.khokababu._" target="blank">
