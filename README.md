@@ -117,6 +117,21 @@
   <a href="https://twitter.com/nrkkraj" target="blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
+  <a href="https://kaggle.com/nrkkrajdeepmondal" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
+  </a>
+  <a href="https://www.codechef.com/users/nrkkr" target="blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
+  </a>
+  <a href="https://codeforces.com/profile/nrkkr" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
+  </a>
+  <a href="https://www.leetcode.com/nrkkr" target="blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/devilsd4w28" target="blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo" />
+  </a>
 </div>
 
 ###
