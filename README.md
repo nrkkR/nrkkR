@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">Languages & Tools:</h3>
+<h2 align="left">Languages & Tools:</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
