@@ -135,3 +135,16 @@
 </div>
 
 ###
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrkkr&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="nrkkr" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrkkr&show_icons=true&locale=en&bg_color=00000000" alt="nrkkr" />
+</p>
+
+<p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nrkkr&background=00000000" alt="nrkkr" />
+</p>
+
