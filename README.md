@@ -82,55 +82,55 @@
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UClEuZv2wtYheUjOhMOj5TDw" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=FF0000&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
   <a href="https://instagram.com/_.khokababu._" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=E4405F&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.twitch.tv" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=9146FF&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
   <a href="https://discord.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=5865F2&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:your-email@gmail.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=EA4335&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://linkedin.com/in/rajdeep-mondal-a277a9317" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=0A66C2&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://www.hackerrank.com/devilsduty10" target="blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=000000&logoColor=2EC866&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
   <a href="https://dev.to/nrkkr" target="blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
   </a>
   <a href="https://codesandbox.com/nrkkr" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=000000&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo" />
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo" />
   </a>
   <a href="https://codepen.io/the-ajooba" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
   </a>
   <a href="https://stackoverflow.com/users/25984306" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=000000&logoColor=F58025&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
   </a>
   <a href="https://twitter.com/nrkkraj" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
   <a href="https://kaggle.com/nrkkrajdeepmondal" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&logoColor=20BEFF&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
   </a>
   <a href="https://www.codechef.com/users/nrkkr" target="blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=000000&logoColor=5B4638&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
   </a>
   <a href="https://codeforces.com/profile/nrkkr" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=000000&logoColor=1F8ACB&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
   </a>
   <a href="https://www.leetcode.com/nrkkr" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=FFA116&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/devilsd4w28" target="blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo" />
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=2F8D46&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo" />
   </a>
 </div>
 
