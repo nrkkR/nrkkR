@@ -154,5 +154,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrkkr&background=00000000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="nrkkr" />
 </p>
 
+### Snake Game
+![snake gif](https://github.com/nrkkR/nrkkR/blob/output/github-contribution-grid-snake.gif)
+
 
 
