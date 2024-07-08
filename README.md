@@ -1,4 +1,4 @@
-![logo](https://github.com/nrkkR/nrkkR/blob/main/4sec%20smoked%20banner.gif)
+![logo](https://github.com/nrkkR/nrkkR/blob/main/glitched%20banner.gif)
 <h1 align="center">Hey! It's 𝗥𝗮𝗷𝗱𝗲𝗲𝗽 𝗠𝗼𝗻𝗱𝗮𝗹.</h1>
 
 ###
