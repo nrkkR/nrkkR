@@ -154,6 +154,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrkkr&background=00000000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="nrkkr" />
 </p>
 
+## Damn, let this guy devour in peace!
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nrkkR/nrkkR/output/github-contribution-grid-snake-dark.svg">
