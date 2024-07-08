@@ -117,6 +117,9 @@
   <a href="https://twitter.com/nrkkraj" target="blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
+  <a href="https://github.com/nrkkR" target="blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
   <a href="https://kaggle.com/nrkkrajdeepmondal" target="blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=000000&logoColor=20BEFF&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
   </a>
@@ -133,6 +136,7 @@
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=000000&logoColor=2F8D46&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo" />
   </a>
 </div>
+
 
 ###
 
