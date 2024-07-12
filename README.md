@@ -1,7 +1,7 @@
 ![logo](https://github.com/nrkkR/nrkkR/blob/main/glitched%20banner.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrkkr&label=Profile%20views&color=red&style=flat" alt="nrkkr" /> </p>
 
-<h1 align="center">Hey! It's 𝗥𝗮𝗷𝗱𝗲𝗲𝗽 𝗠𝗼𝗻𝗱𝗮𝗹.</h1>
+<h1 align="center">Hey! It's 𝗥𝗮𝗷.</h1>
 
 ###
 
