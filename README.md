@@ -6,7 +6,7 @@
 ###
 
 <h2 align="center">Welcome to my GitHub oasis, where innovation meets code and creativity thrives!</h2>
-<img align="right" alt="coding" width="300" src="https://github.com/nrkkR/nrkkR/blob/main/goku%20running.gif">
+<img align="right" alt="coding" width="260" src="https://github.com/nrkkR/nrkkR/blob/main/goku%20uppercut.gif">
 
 ###
 
